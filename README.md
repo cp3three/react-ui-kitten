@@ -1,25 +1,43 @@
+<img src="https://cdn.rawgit.com/akveo/react-native-ui-kitten/085afb52/docs/assets/banner.png"/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bukharim96/react-ui-kitten/master/resources/react-ui-kitten-banner-2.png" />
-</p>
+# react-native-ui-kitten
 
-<h1 align="center">react-ui-kitten</h1>
+react-native-ui-kitten is a framework that contains a set of commonly used UI components styled in a similar way. 
+The main idea of this framework is to move style definitions into a specific place making components reusable and styled in a single way.
+You just focus on business logic and it takes care of visual appearance. 
 
-`react-ui-kitten` is the web version of `react-native-ui-kitten`, the original project, developed by [Akveo](https://akveo.github.io/react-native-ui-kitten/). It is an awesome framework that contains a set of commonly used UI components with constant styles across Android, IOS and now the web.
+We have also brought a concept similar to CSS classes that will save you time when styling elements. 
+And the most awesome thing: you can change themes on the fly by just passing a different set of variables. 
 
-I was such a fan of `react-native-ui-kitten`'s UI components, that I decided to not only make use of it in my `react-native` apps, but also in my web / `electron` apps. So that my apps could have a single suite across devices. This is why I forked and added support for the web to `react-native-ui-kitten`.
+100% native. Give our kitten a try!
 
-All who find this useful should start and thank the `react-native-ui-kitten` developers - whom without this project would not be possible.
-
-I'll be sure to soon release a sample web app with `electron` and this framework in order to display its goodies. In the meantime, here's a desktop chat app built with `react-ui-kitten`:
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bukharim96/react-ui-kitten/master/resources/react-ui-kitten-electron-app.png" />
-</p>
+<img src="https://cdn.rawgit.com/akveo/react-native-ui-kitten/master/docs/assets/kittenKit.png"/>
 
 ## Documentation
-Documentation for `react-ui-kitten`  could be found [here](https://akveo.github.io/react-native-ui-kitten/) at the `react-native-ui-kitten` developers' site.
+Documentation for this framework is [here](https://akveo.github.io/react-native-ui-kitten/).
 
-**Note**: I haven't altered or made any drastic changes to the framework's core features, so that the documentation of the original package remains relevant to this as well. Therefore, there's no need to learn a new API for the previous users.
+## Demo applications
 
-Enjoy! :)
+If you want to see how it works - just run explore app in *examples* folder.
+
+There is also [a cool application](https://github.com/akveo/kittenTricks) built using our framework. It's open-source and free!
+
+Don't forget to check them out!
+
+## How can I support the developers?
+- Star our GitHub repo
+- Create pull requests, submit bugs, suggest new features or documentation updates
+- Follow us on [Twitter](https://twitter.com/akveo_inc)
+- Like our page on [Facebook](https://www.facebook.com/akveo/)
+
+## Can I hire you guys?
+Yes! We are available for hire. Visit [our homepage](http://akveo.com/) or simply leave us a message at contact@akveo.com. We will be happy to work with you!
+
+License
+-------------
+<a href=/LICENSE.txt target="_blank">MIT</a> license.
+
+### From akveo
+
+Enjoy!
+We're always happy to receive your feedback.
